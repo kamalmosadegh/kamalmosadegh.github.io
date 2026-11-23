@@ -1,0 +1,38 @@
+# Kamal Mosadegh — Freelance Developer
+
+> Freelance developer building algorithmic trading bots, HTML5 games, data models & forecasting tools, and TradingView (Pine Script) indicators. 16 projects shipped in November 2026, plus 2 digital products. Remote, worldwide. Contact by email only: kamalmosadegh6977@gmail.com
+
+This site is the portfolio of Kamal Mosadegh. Services offered: trading bots & backtesting systems, TradingView indicators & strategies, browser games & interactive tools, data models / forecasting / dashboards, and faceless video pipelines. To hire him, email a brief to kamalmosadegh6977@gmail.com — he replies with a plan, a price and a delivery date.
+
+## Projects
+
+- [BotRoster — AI Bot Manager](https://github.com/kamalmosadegh/botroster): Android app (Kotlin, Jetpack Compose) to build and manage a roster of Gemini-powered AI assistant bots, with chat and an approval protocol. [Download v2.1 APK](https://github.com/kamalmosadegh/botroster/releases/tag/v2.1)
+- [pdf-slice — PDF Extraction, Zero Silent Failures](https://github.com/kamalmosadegh/pdf-slice): PDF-to-markdown extractor with content-hash caching, OCR fallback, per-page provenance and an MCP server for AI coding agents.
+- [DipCatcher — Bitcoin Trading Bot](https://github.com/kamalmosadegh/dipcatcher): Algorithmic dip-buying trading bot (TypeScript). Backtest: +$13.67 net PnL, 100% win rate, 0.67% max drawdown.
+- [TrophyDrift — Rarity Forecaster](https://github.com/kamalmosadegh/trophydrift): Forecasting model (Python) predicting GTA VI trophy rarity; beat both reference baselines.
+- [Token Launch Radar](https://github.com/kamalmosadegh/token-launch-radar): Deterministic data model (TypeScript) ranking 204 tokenised protocols by implied value, with a leaderboard dashboard.
+- [VOIDSTORM — Arena Shooter](https://github.com/kamalmosadegh/voidstorm): Complete neon arena survival game in vanilla JavaScript with synthesized WebAudio sound. [Play it](https://kamalmosadegh.github.io/voidstorm/game/)
+- [Solmar Bay — Open-World Game](https://github.com/kamalmosadegh/solmar-bay): Top-down open-world crime game in JavaScript: traffic, police AI, wanted system, missions. [Play it](https://kamalmosadegh.github.io/solmar-bay/game/)
+- [The World in One Picture](https://github.com/kamalmosadegh/world-in-one-picture): Programmatic daily news infographic poster generator (Python/Pillow).
+- [Fast CSV Reader](https://github.com/kamalmosadegh/fast-csv-reader): Dependency-free CSV reader (JavaScript) at ~7.8x the reference speed, verified on 3,000 randomised inputs.
+- [BoxPush — Push-Optimal Sokoban Solver](https://github.com/kamalmosadegh/boxpush): Sokoban solver (TypeScript, A* over pushes) that solved all 70 test levels in their exact optimal push counts.
+- [Stillwater](https://github.com/kamalmosadegh/stillwater): Tiny Python program that writes a short calming passage with a built-in length guard.
+- [TinyStack — A Tiny Stack Virtual Machine](https://github.com/kamalmosadegh/tinystack): Exact interpreter (TypeScript) for a stack-based bytecode ISA; perfect score on all 40 test programs.
+- [SiteForge — A Faster Static Site Generator](https://github.com/kamalmosadegh/siteforge): From-scratch static site generator (TypeScript) producing byte-identical output in about a third of the reference CPU time.
+- [Lighthouse Word](https://github.com/kamalmosadegh/lighthouse-word): Tiny Python program that writes a short passage crafted to spark curiosity, with a built-in length guard.
+
+## Products
+
+- SMC Order Block Pro — TradingView Pine Script v6 ICT/Smart Money indicator pack: rule-valid order blocks, FVGs, liquidity sweeps, confirmation signals, dashboard and alerts (on Gumroad).
+- Faceless Shorts Launch Kit — complete starter system for faceless 2D-animation YouTube Shorts: playbook, Remotion template, 10 ready scripts, character kit, 30-day calendar (on Gumroad).
+
+## Free Tool
+
+- SMC Order Block Scanner Lite — free TradingView indicator (Pine Script v6): draws only order-block zones that pass the full validity checklist. Available from the portfolio homepage in exchange for an email address.
+
+## Links
+
+- [Portfolio homepage](https://kamalmosadegh.github.io/)
+- [GitHub profile — all projects](https://github.com/kamalmosadegh)
+- [Markdown version of this site](https://kamalmosadegh.github.io/index.md)
+- Contact: kamalmosadegh6977@gmail.com (email only)
