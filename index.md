@@ -91,6 +91,7 @@ A tiny program that writes one short passage — 188 characters about a lighthou
 
 ## Products
 
+- **SEO Audit — AI-Readiness Checker** — Android app · Kotlin. Audit any website in seconds: an overall 0–100 score covering classic SEO and the new AI-readiness checks most sites fail — AI crawler access in robots.txt, llms.txt, markdown versions of pages, and an A2A agent card. Lite is free (score + the core AI-readiness checks); Pro ($29, launch $19) unlocks every check, step-by-step fixes, white-label PDF client reports and unlimited audits. Get the free Lite edition via the form on the [homepage](https://kamalmosadegh.github.io/).
 - **SMC Order Block Pro** — TradingView indicator · on Gumroad. Pine Script v6 ICT/Smart Money indicator: only rule-valid order blocks, FVGs, liquidity sweeps, confirmation signals, live verdict dashboard and alerts.
 - **Faceless Shorts Launch Kit** — Video production system · on Gumroad. Complete starter system for faceless 2D-animation YouTube Shorts: method playbook, working Remotion template, 10 ready scripts, character kit, 30-day calendar.
 
